@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ReactOnChain
-- 👀 I’m interested in Web3 Design
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anything OS in Web3!
+-  Hi, I’m @ReactOnChain
+-  I’m interested in Web3 Design
+-  I’m currently learning React
+-  I’m looking to collaborate on anything OS in Web3!
 
 
 <!---
